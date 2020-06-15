@@ -33,8 +33,6 @@ Music: “Shape Shift” & "Guilty One", from PlayOnLoop.com
 
 Licensed under Creative Commons by Attribution 4.0
 
-## APK
+## Upload
 
-To play the Game, download the apk from the apk folder and install it to your android device.
-
-The Game has been uploaded to the playstore but is currently under a pending review and will soon be published, following which it can directly be downloaded from there.
+The Game has been uploaded on the Playstore, but is currently under a pending review, and will soon be published following which it can be downloaded from there.
