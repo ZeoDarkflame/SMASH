@@ -1,5 +1,5 @@
 # SMASH
-SMASH is a simple android game for mobile devices, its a endless obstacle dodging game with level progression system
+SMASH is a simple android game for mobile devices, its an endless obstacle dodging game with level progression system
 
 ![image](Screens/FeatGraphic.jpg)
 
